@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I am into Web development and User interface design right now.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the VIT University.\
 🌱 &nbsp;I'm on track for learning more about Systems Design and architectutre.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Content Writing for university club as hobbies.\
