@@ -18,12 +18,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php&logoColor=563D7C)
 
-<!---
-INCIBLA/INCIBLA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<p align="center">
-<a href="https://github.com/shvm-k">
- <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shvm-k&layout=compact&langs_count=8&theme=algolia" align="left"/>
-</a>
-</p>
+#### Statistics
+
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shvm-k&show_icons=true&theme=white)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=shvm-k)
+
