@@ -1,6 +1,6 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Shivam -->
 
-### 👨🏻‍💻 &nbsp;About Me
+#### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I am into Web development and User interface design right now.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the VIT University.\
