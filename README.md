@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the VIT University.\
 🌱 &nbsp;I'm on track for learning about system design and architectutre.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Content Writing for university club as hobbies.\
-📄 &nbsp;Please have a look at my [Resume](https://github.com/shvm-k/shvm-k/files/9499618/Profile.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [RESUME](https://github.com/shvm-k/shvm-k/files/9963286/resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -24,6 +24,12 @@
 
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shvm-k&show_icons=true&theme=white)
 
+<a href="https://github.com/shvm-k">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shvm-k&layout=compact&langs_count=8&theme=white"/>
+</a>
+
+
 ![GitHub metrics](https://metrics.lecoq.io/shvm-k)
+
 
  
