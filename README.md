@@ -1,6 +1,8 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Shivam -->
+![Gif](https://user-images.githubusercontent.com/96217047/203904678-3347ae91-492b-42b5-be3c-a659d7fae720.gif)
+
 <a href="https://app.daily.dev/shvm"><img src="https://api.daily.dev/devcards/a00b1d957a7c422e96f1c34094aa5892.png?r=2u5" width="200" align="right" alt="Nilabh Shivam Thakur's Dev Card"/></a>
-![Visitor Count](https://komarev.com/ghpvc/?username=shvm-k&style=for-the-badge&align="right")
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔗 I’m currently learning Web Devlopment
@@ -16,7 +18,17 @@
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 <br><br>
+
+### Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<a href="https://twitter.com/shvm_k"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@shvm_k"></a>
+<a href="https://www.linkedin.com/in/nilabh-shivam-thakur-b30a921b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:nilabhshivam333@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://dev.to/shvm"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="shvm"></a>
+<a href="https://dribbble.com/shvm_k"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
+
 ![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
+![Visitor Count](https://komarev.com/ghpvc/?username=shvm-k&style=for-the-badge&align="right")
+
 
 ### 📊 Github Stats
 <details>
