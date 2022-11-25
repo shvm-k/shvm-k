@@ -17,6 +17,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php&logoColor=563D7C)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
 ### Statistics
