@@ -39,8 +39,7 @@
 ### 📊 Github Stats
 <details>
 <summary>Expand</summary>
-![Shivam's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shvm-k&layout=compact&langs_count=8&theme=white)
-<br>
+
   
 ![GitHub metrics](https://metrics.lecoq.io/shvm-k)
 
