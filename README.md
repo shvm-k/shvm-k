@@ -2,7 +2,7 @@
 
 <div style="text-align: right">
 </div>
-<img src="https://user-images.githubusercontent.com/96217047/203905977-b4828224-1871-45e7-846a-1ce209544b69.gif" alt="Cover" height="460" width="800" align="center")
+
 
 <a href="https://app.daily.dev/shvm"><img src="https://api.daily.dev/devcards/a00b1d957a7c422e96f1c34094aa5892.png?r=2u5" width="200" align="right" alt="Nilabh Shivam Thakur's Dev Card"/></a>
 
