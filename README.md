@@ -8,7 +8,7 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-- 🔗 I’m currently learning Web Devlopment
+- 🔗 I’m currently learning Web Devlopment & ML
 - 👐 Here is my [Resume](https://github.com/shvm-k/shvm-k/files/9963286/resume.pdf) 
 - 🥅 2023 Goals: Learn about Web 3.0
 - 🏋️ Fun fact: I love to workout
@@ -22,6 +22,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <br><br>
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 ### Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <a href="https://twitter.com/shvm_k"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@shvm_k"></a>
