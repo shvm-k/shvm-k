@@ -9,7 +9,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔗 I’m currently learning Web Devlopment & ML
-- 👐 Here is my [Portfolio](https://shvm-k.github.io) 
+- 👐 Here is my [portfolio site](https://shvm-k.github.io) 
 - 🥅 2023 Goals: Learn about Web 3.0
 - 🏋️ Fun fact: I love to workout
 <br>
