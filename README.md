@@ -8,16 +8,19 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-- 🔗 I’m currently learning Web Devlopment & ML
+- 🔗 I’m currently learning Web Development & ML
+- 🎨 My [UI/UX](instagram.com/shvm.dev) designs
 - 👐 Here is my [portfolio site](https://shvm-k.github.io) 
-- 🥅 2023 Goals: Learn about Web 3.0
 - 🏋️ Fun fact: I love to workout
+
 <br>
+
+
 
 ### 🤹 My Skill Set
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) <br>
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
