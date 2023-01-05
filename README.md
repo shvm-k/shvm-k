@@ -20,10 +20,8 @@
 ### 🤹 My Skill Set
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) <br>
-![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
 
 ### Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
@@ -33,7 +31,7 @@
 
 
 ![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
-![Visitor Count](https://komarev.com/ghpvc/?username=shvm-k&style=for-the-badge&align="right")
+
 
 
 
@@ -43,6 +41,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shvm-k&layout=compact&theme=dark)](https://github.com/shvm-k/github-readme-stats)
 
 ![Alt](https://repobeats.axiom.co/api/embed/0f615cc5cac801d7564623fe4552545c63d1247b.svg "Repobeats analytics image")
+
+![Visitor Count](https://komarev.com/ghpvc/?username=shvm-k&style=for-the-badge&align="right")
 
 
 
