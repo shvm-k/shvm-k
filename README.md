@@ -36,12 +36,15 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=shvm-k&style=for-the-badge&align="right")
 
 
-### 📊 Github Stats
-<details>
-<summary>Expand</summary>
 
-  
-![GitHub metrics](https://metrics.lecoq.io/shvm-k)
+
+### 📊 Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shvm-k&layout=compact&theme=dark)](https://github.com/shvm-k/github-readme-stats)
+
+![Alt](https://repobeats.axiom.co/api/embed/0f615cc5cac801d7564623fe4552545c63d1247b.svg "Repobeats analytics image")
+
+
 
 
 
