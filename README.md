@@ -11,7 +11,7 @@
 
 #### 👨🏻‍💻 About Me
 - 🔗 I’m currently learning Web Development & ML
-- 🎨 My [UI/UX](instagram.com/shvm.dev) designs
+- 🎨 My [UI/UX](https://instagram.com/shvm.dev) designs
 - 👐 Here is my [portfolio site](https://shvm-k.github.io) 
 - 🏋️ Fun fact: I love to workout
 
