@@ -24,7 +24,7 @@
 
 ![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
 
-#### Stats
+#### 📊 Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shvm-k&show_icons=true&theme=transparent&langs_count=5&layout=compact)
 <br><br>
