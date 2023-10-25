@@ -11,7 +11,7 @@
 
 #### 👨🏻‍💻 About Me
 - 🔗 I’m currently learning Javascript
-- 🎨 My [UI/UX](https://instagram.com/shvm.dev) designs
+- 🎨 My [UI/UX](https://dribbble.com/shvm_k) designs
 - 👐 Here is my [portfolio site](https://shvm-k.github.io) 
 - 🏋️ Fun fact: I love to workout
 - 📸 Creating captivating aesthetics for [Instagram](instagram.com/shvm.k)
