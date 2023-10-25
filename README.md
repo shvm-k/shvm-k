@@ -10,7 +10,7 @@
 
 
 #### 👨🏻‍💻 About Me
-- 🔗 I’m currently learning Web Development & ML
+- 🔗 I’m currently learning Javascript
 - 🎨 My [UI/UX](https://instagram.com/shvm.dev) designs
 - 👐 Here is my [portfolio site](https://shvm-k.github.io) 
 - 🏋️ Fun fact: I love to workout
