@@ -14,7 +14,7 @@
 - 🎨 My [UI/UX](https://dribbble.com/shvm_k) designs
 - 👐 Here is my [portfolio site](https://shvm-k.github.io) 
 - 🏋️ Fun fact: I love to workout
-- 📸 Creating captivating aesthetics for [Instagram](https://www.instagram.com/shvm.k)
+- 📸 Creating visual stories on [instagram](https://www.instagram.com/shvm.k)
 
 #### 📩 Connect with me 
 <a href="https://twitter.com/shvm_k"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@shvm_k"></a>
