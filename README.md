@@ -27,11 +27,12 @@
 #### 📊 Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shvm-k&show_icons=true&theme=transparent&langs_count=5&layout=compact)
-<br><br>
-![Alt](https://repobeats.axiom.co/api/embed/0f615cc5cac801d7564623fe4552545c63d1247b.svg "Repobeats analytics image")
+<br> 
+<p align="left">  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=shvm-k&theme=dark" /> </p><br> 
 
-
+#### Badges
 [![Holopin Badges](https://holopin.me/shvmk)](https://holopin.io/@shvmk)
+
 
 
 
