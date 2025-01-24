@@ -27,8 +27,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shvm-k&show_icons=true&theme=transparent&langs_count=8&layout=compact)
 <br> 
-
-<p align="left">  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=shvm-k&theme=dark" /> </p><br> 
+ 
 
 #### Badges
 [![Holopin Badges](https://holopin.me/shvmk)](https://holopin.io/@shvmk)
