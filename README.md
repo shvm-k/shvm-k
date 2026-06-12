@@ -12,7 +12,7 @@
 #### 👨🏻‍💻 About Me
 - 🔗 I’m currently learning Javascript
 - 🎨 My [UI/UX](https://dribbble.com/shvm_k) designs
-- 👐 Here is my [portfolio site](https://shvm-k.github.io)  and [resume](https://drive.google.com/file/d/1eg3jIpQoE23mr2Qp_1gGdFMnjmndU5uf/view?usp=sharing)
+- 👐 Here is my [portfolio site](https://shvm-k.github.io)
 - 🏋️ Fun fact: I love to workout
 
 #### 📩 Connect with me 
