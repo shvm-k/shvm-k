@@ -14,7 +14,7 @@
 - 👐 Here is my [portfolio site](https://shvm-k.github.io)
 - 🏋️ Fun fact: I love to workout
 
-#### Publication
+#### 🧬 Publication
 [doi.org/10.5281/zenodo.20722471](https://doi.org/10.5281/zenodo.20722471)
 
 #### 📩 Connect with me 
